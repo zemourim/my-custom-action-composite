@@ -12,7 +12,7 @@ jobs:
         # Variante pédagogique : référencer l'action distante versionnée
         # uses: <OWNER>/<REPO>@<TAG_OU_SHA>
         with:
-          who-to-greet: 'Mona the Octocat'
+          who-to-greet: 'Moha ZEM'
       - run: echo random-number "$RANDOM_NUMBER"
         shell: bash
         env:
